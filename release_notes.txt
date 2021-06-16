@@ -1,0 +1,59 @@
+Release Notes for Marble Rush: Twisted
+
+MAIN MECHANICS
+ - Match 3 game
+ - Rotate 4 adjacent items
+ - Multiple AI opponents different specials
+ - Matches attack opponent
+
+IDEAS
+ - Special Marble 3x3 rotation
+ - Special Marble bomb
+ - Special Unbreakable Marble
+ - CW and CCW mechanics (issue with touchscreen)
+
+BUG LIST
+ - (low) Matches checked before all marbles fall - Possible fix by delaying disappear phase
+ - (low) Issue with AI not always selecting best move
+ - (FIXED - 0.4.0) Cannot exit game by pressing X with mouse
+
+ TODO for 1.0
+ - Core Match 3 gameplay *
+ - Special marbles
+ - Sounds and Music *
+ - 7 Unique AI opponents *
+ - Menu Screen to select AI opponent *
+ - Menu Screen to adjust volume
+ - Demo mode
+ - Updated graphics
+ - Add Special Marble (3x3 Rotation)
+
+TODO for 0.5
+ - Add "filler" victory sound
+ - Add Menu Screen for audio options (volume & ON/OFF)
+ - Make Installer
+
+RELEASES
+
+0.5.0 - future
+
+
+0.4.0 - 4/6/18
+ - Added menu Screen to select AI opponents
+ - Add versus labels
+ - Added "filler" music to title/menu screen and gameplay (temporarily removed)
+ - Fixed error where you cannot exit game by pressing X
+
+0.3.0 - 3/22/18
+ - Added title screen
+ - Added improved AI (best)
+ - Added sound for breaking marbles
+
+0.2.0 - 3/8/2018
+ - Added Victory / Reset
+ - Added AI support (random)
+
+0.1.0 - 2/22/2018
+ - 2x2 rotation added
+ - Piece removal added
+ - Piece drops added
